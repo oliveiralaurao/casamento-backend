@@ -7,10 +7,9 @@
 1. Cadastro e Perfis de Usuário: Permitir que noivos, convidados e fornecedores criem e gerenciem perfis.
 2. Blog ou Dicas de Planejamento: Artigos e conselhos úteis sobre planejamento de casamentos.
 3. Wishlist de Presentes: Opção para criar e gerenciar uma lista de presentes de casamento, com links para lojas e informações sobre presentes desejados.
-4. Galeria de Paletas de Cores: Exibir uma coleção de paletas de cores predefinidas inspiradas em tendências e estilos de casamento.
-5. Galeria de Roupas: Exibir uma galeria de estilos e tendências para vestidos de noiva e ternos para noivos, incluindo fotos e descrições detalhadas.
-6. Ideias de Design: Galeria de temas e inspirações de decoração.
-7. Listas de Tarefas: Checklists para o planejamento do casamento.
+4. Galeria de Paletas de Cores: Criar uma coleção de paletas de cores predefinidas inspiradas em tendências e estilos de casamento.
+5. Galeria de Roupas: Criar uma galeria de estilos e tendências para vestidos de noiva e ternos para noivos, incluindo fotos e descrições detalhadas.
+6. Ideias de Design: Armazenar galeria de temas e inspirações de decoração.
 
 ### Tarefas:
 
