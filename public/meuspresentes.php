@@ -21,8 +21,11 @@ if (!isset($_SESSION['email'])) {
         while ($paleta = $result_presente->fetch_assoc()) {
             $dados_presente[] = $paleta;
         }
-    } else {
-        echo "Nenhum presente encontrado.";
+    } 
+    if (isset($_POST['adicionar-presente'], $_POST['adicionar-link'])) {
+       
+    
+        cadastra_presente($mysqli, $_POST['adicionar-presente'], $_POST['adicionar-link'], $id_user);
     }
 }
 ?>
